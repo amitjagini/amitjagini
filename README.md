@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitjagini
 - 👀 I’m interested in Math and Coding
-- 📫 How to reach me 7842210197
+- 📫 How to reach me jaginiamit@gmail.com
 
 <!---
 amitjagini/amitjagini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
